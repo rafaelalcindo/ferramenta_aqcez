@@ -10,13 +10,13 @@ $(document).ready(function(){
                 var estrutura     = $('#sele_estrutura').val();
                 var especi_estru  = $('#text_area_obs').val();
                 var sele_area     = $('#sele_area').val();
-                var servico_preci = $("input[name='Pedido[]']").is(':checked');
+              //  var servico_preci = $("input[name='Pedido[]']").is(':checked');
                // var urgencia      = $('#sele_urgencia').val();
                // var area_nesce    = $('#area_nece').val();
                // var file_upload   = verificaUpload($('#upload_image').val());
                 var nome_orc      = $('#nome_orc').val();
-                var emp_orc       = $('#emp_orc').val();
-                var tel           = $('#tel').val();
+               // var emp_orc       = $('#emp_orc').val();
+               // var tel           = $('#tel').val();
                 var cel           = $('#cel').val();
                 var email         = $('#email_orc').val();
                 var estado        = $('#estado').val();
@@ -26,11 +26,11 @@ $(document).ready(function(){
 
                 if(escritorio.trim() != ''){
                     if(sele_area.trim() != ''){ 
-                        if(servico_preci != false){
+                        
                             
                                 if(nome_orc.trim() != ''){
-                                    if(emp_orc.trim() != ''){
-                                        if(tel.trim() != '' || cel.trim() != ''){
+                                    
+                                        if(cel.trim() != ''){
                                             if(email.trim() != ''){
                                                 if(estado.trim() != ''){
                                                     if(cidade.trim != ''){
@@ -42,10 +42,10 @@ $(document).ready(function(){
                                                         data.append('especi_estru', especi_estru);
                                                         data.append('area', sele_area);
 
-                                                        $("input[name='Pedido[]']:checked").each(function(){
+                                                       /* $("input[name='Pedido[]']:checked").each(function(){
                                                             
                                                             servicos_array.push($(this).val());
-                                                        });
+                                                        }); */
 
                                                         data.append('servico', servicos_array);
 
@@ -54,8 +54,8 @@ $(document).ready(function(){
                                                        // data.append('quando', area_nesce);
                                                       //  data.append('file',file_upload);
                                                         data.append('nome', nome_orc);
-                                                        data.append('emp',  emp_orc);
-                                                        data.append('tel', tel);
+                                                      //  data.append('emp',  emp_orc);
+                                                      //  data.append('tel', tel);
                                                         data.append('cel',cel);
                                                         data.append('email', email);
                                                         data.append('estado', estado);
@@ -70,11 +70,11 @@ $(document).ready(function(){
                                                     }else{ alert('Por favor selecione a sua cidade'); }
                                                 }else{ alert('Por favor selecione seu estado.'); }
                                             }else{ alert('Por favor digite seu email.'); }
-                                        }else{ alert('Por favor digite o numero do seu telefone ou celular.'); }
-                                    }else{ alert('Por favor Digite o nome da sua Empresa.'); }
+                                        }else{ alert('Por favor digite o numero do seu celular.'); }
+                                    
                                 }else{ alert('Por favor Digite o seu nome.'); }
                             
-                        }else{ alert('Por favor marque o tipo de serviço que você precisa no Passo 2'); }
+                        
                     }else{ alert('Por favor selecione a área.'); }
                 }else{ alert('Por favor selecione tipo de negócio.'); }
                 

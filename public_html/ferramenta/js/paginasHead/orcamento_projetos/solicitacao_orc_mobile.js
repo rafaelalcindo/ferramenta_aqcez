@@ -14,13 +14,13 @@
                 var estrutura     = $('#sele_estrutura2').val();
                 var especi_estru  = $('#text_area_obs2').val();
                 var sele_area     = $('#sele_area2').val();
-                var servico_preci = $("input[name='Pedido[]']").is(':checked');
+               // var servico_preci = $("input[name='Pedido[]']").is(':checked');
               //  var urgencia      = $('#sele_urgencia2').val();
                // var area_nesce    = $('#area_nece2').val();
                // var file_upload   = verificaUpload($('#upload_image2').val());
                 var nome_orc      = $('#nome_orc2').val();
                 var emp_orc       = $('#emp_orc2').val();
-                var tel           = $('#tel2').val();
+                //var tel           = $('#tel2').val();
                 var cel           = $('#cel2').val();
                 var email         = $('#email_orc2').val();
                 var estado        = $('#estado2').val();
@@ -30,11 +30,11 @@
 
                 if(escritorio.trim() != ''){
                     if(sele_area.trim() != ''){ 
-                        if(servico_preci != false){
+                        
                             
                                 if(nome_orc.trim() != ''){
-                                    if(emp_orc.trim() != ''){
-                                        if(tel.trim() != '' || cel.trim() != ''){
+                                    
+                                        if(cel.trim() != ''){
                                             if(email.trim() != ''){
                                                 if(estado.trim() != ''){
                                                     if(cidade.trim != ''){
@@ -58,8 +58,8 @@
                                                         //data.append('quando', area_nesce);
                                                        // data.append('file',file_upload);
                                                         data.append('nome', nome_orc);
-                                                        data.append('emp',  emp_orc);
-                                                        data.append('tel', tel);
+                                                       // data.append('emp',  emp_orc);
+                                                       // data.append('tel', tel);
                                                         data.append('cel',cel);
                                                         data.append('email', email);
                                                         data.append('estado', estado);
@@ -74,11 +74,11 @@
                                                     }else{ var error = '<p>Por favor selecione a sua cidade</p>';  $('#u253932-4').show(); $('#u253932-4').append(error);  }
                                                 }else{ var error = '<p>Por favor selecione seu estado.</p>'; $('#u253932-4').show(); $('#u253932-4').append(error); }
                                             }else{ var error = '<p>Por favor digite seu email.</p>'; $('#u253932-4').show(); $('#u253932-4').append(error); }
-                                        }else{ var error = '<p>Por favor digite o numero do seu telefone ou celular.</p>'; $('#u253932-4').show(); $('#u253932-4').append(error); }
-                                    }else{ var error = '<p>Por favor Digite o nome da sua Empresa.</p>'; $('#u253932-4').show(); $('#u253932-4').append(error); }
+                                        }else{ var error = '<p>Por favor digite o numero do seu celular.</p>'; $('#u253932-4').show(); $('#u253932-4').append(error); }
+                                    
                                 }else{ var error = '<p>Por favor Digite o seu nome.</p>'; $('#u253932-4').show(); $('#u253932-4').append(error); }
                             
-                        }else{ var error = '<p>Por favor marque o tipo de serviço que você precisa no Passo 2</p>'; $('#u253932-4').show(); $('#u253932-4').append(error); }
+                        
                     }else{ var error = '<p>Por favor selecione a área.</p>'; $('#u253932-4').show(); $('#u253932-4').append(error); }
                 }else{ var error = '<p>Por favor selecione tipo de negócio.</p>'; $('#u253932-4').show(); $('#u253932-4').append(error); }
                 
