@@ -1,0 +1,14 @@
+select{
+       -webkit-appearance: none;
+       -moz-appearance: none;
+       text-indent: 1px;
+       text-overflow: "";
+       border: none;
+       width: 100%;
+       background-image: url('../../images/downArrow.png');
+       background-repeat: no-repeat;
+       background-position: right center;
+       -webkit-border-radius: 5px;
+       -moz-border-radius: 5px;
+       border-radius: 5px;
+}

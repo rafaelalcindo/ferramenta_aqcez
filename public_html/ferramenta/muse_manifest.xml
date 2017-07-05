@@ -1,0 +1,443 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.aqcez.com.br" ftp_rootfolder="/public_html/goconstruct.com.br" exportTarget="FTP" domain="www.goconstruct.com.br" resolutions="1x" timestamp="1498676995918">
+  <folder name="assets">
+    <file name="21.jpg" crc="4027706285" seo="true" mt="1490055402000"/>
+    <file name="12.jpg" crc="4203730707" seo="true" mt="1490053016000"/>
+    <file name="6.jpg" crc="338685771" seo="true" mt="1490053016000"/>
+    <file name="19-2.jpg" crc="4294894258" seo="true" mt="1490055402000"/>
+    <file name="62.jpg" crc="458543826" seo="true" mt="1490055402000"/>
+    <file name="12-2.jpg" crc="4050218402" seo="true" mt="1490053016000"/>
+    <file name="212.jpg" crc="6976203" seo="true" mt="1490053016000"/>
+    <file name="13.jpg" crc="45401353" seo="true" mt="1490053016000"/>
+    <file name="5.jpg" crc="4124493418" seo="true" mt="1490055402000"/>
+    <file name="3-1.jpg" crc="3870170953" seo="true" mt="1490053016000"/>
+    <file name="20.jpg" crc="531155448" seo="true" mt="1490055402000"/>
+    <file name="11.jpg" crc="23105092" seo="true" mt="1490055402000"/>
+    <file name="2.jpg" crc="150089873" seo="true" mt="1490053016000"/>
+    <file name="11-3.jpg" crc="4125942981" seo="true" mt="1490053016000"/>
+    <file name="10.jpg" crc="336172412" seo="true" mt="1490055402000"/>
+    <file name="19.jpg" crc="402833282" seo="true" mt="1490055402000"/>
+    <file name="3.jpg" crc="159851560" seo="true" mt="1490053016000"/>
+    <file name="18.jpg" crc="85783875" seo="true" mt="1490053016000"/>
+    <file name="9.jpg" crc="4153430905" seo="true" mt="1490053016000"/>
+    <file name="3-12.jpg" crc="385554657" seo="true" mt="1490055402000"/>
+    <file name="11-32.jpg" crc="250743110" seo="true" mt="1490055402000"/>
+    <file name="8.jpg" crc="301872329" seo="true" mt="1490053016000"/>
+    <file name="182.jpg" crc="338855985" seo="true" mt="1490055402000"/>
+    <file name="82.jpg" crc="30969599" seo="true" mt="1490055402000"/>
+    <file name="192.jpg" crc="3867113564" seo="true" mt="1490053016000"/>
+    <file name="kiss1.jpg" crc="256883368" seo="true" mt="1490055402000"/>
+    <file name="kiss12.jpg" crc="494526269" seo="true" mt="1490053016000"/>
+    <file name="4.jpg" crc="103990897" seo="true" mt="1490055402000"/>
+    <file name="92.jpg" crc="242159767" seo="true" mt="1490055402000"/>
+    <file name="11-2.jpg" crc="4293080724" seo="true" mt="1490053016000"/>
+    <file name="1.jpg" crc="4214876231" seo="true" mt="1490055402000"/>
+    <file name="11-22.jpg" crc="104099718" seo="true" mt="1490055402000"/>
+    <file name="102.jpg" crc="4239592928" seo="true" mt="1490053016000"/>
+    <file name="12-22.jpg" crc="362418668" seo="true" mt="1490055402000"/>
+    <file name="202.jpg" crc="83435992" seo="true" mt="1490053016000"/>
+    <file name="19-22.jpg" crc="3962281537" seo="true" mt="1490053016000"/>
+    <file name="132.jpg" crc="448686739" seo="true" mt="1490055402000"/>
+    <file name="16.jpg" crc="3781100331" seo="true" mt="1490053016000"/>
+    <file name="52.jpg" crc="402833203" seo="true" mt="1490053016000"/>
+    <file name="kiss2.jpg" crc="77691737" seo="true" mt="1490055402000"/>
+    <file name="42.jpg" crc="3905501806" seo="true" mt="1490053016000"/>
+    <file name="162.jpg" crc="326056596" seo="true" mt="1490055402000"/>
+    <file name="14.jpg" crc="232936431" seo="true" mt="1490053016000"/>
+    <file name="112.jpg" crc="335323565" seo="true" mt="1490053016000"/>
+    <file name="kiss22.jpg" crc="4252758211" seo="true" mt="1490053016000"/>
+    <file name="122.jpg" crc="3865998250" seo="true" mt="1490055402000"/>
+    <file name="32.jpg" crc="31120618" seo="true" mt="1490055402000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_reforma.css" crc="3887542779" ref="orcamento_reforma"/>
+    <file name="nomq_preview_master_reforma.css" crc="4290011817" ref="orcamento_reforma"/>
+    <file name="master_constru__o.css" crc="18210545" ref="orcamento"/>
+    <file name="nomq_preview_master_constru__o.css" crc="3824530138" ref="orcamento"/>
+    <file name="master_projetos.css" crc="349449293" ref="orcamento_projetos"/>
+    <file name="nomq_preview_master_projetos.css" crc="3824530138" ref="orcamento_projetos"/>
+    <file name="master_outros.css" crc="32121138" ref="orcamento_outros"/>
+    <file name="nomq_preview_master_outros.css" crc="460255411" ref="orcamento_outros"/>
+    <file name="fornecedor.css" crc="3998875831" ref="fornecedor"/>
+    <file name="nomq_fornecedor.css" crc="71204545" ref="fornecedor"/>
+    <file name="iefonts_fornecedor.css" crc="3824530138" ref="fornecedor"/>
+    <file name="orcamento_reforma.css" crc="130296565" ref="orcamento_reforma"/>
+    <file name="nomq_orcamento_reforma.css" crc="363274030" ref="orcamento_reforma"/>
+    <file name="iefonts_orcamento_reforma.css" crc="3824530138" ref="orcamento_reforma"/>
+    <file name="orcamento_projetos.css" crc="496952739" ref="orcamento_projetos"/>
+    <file name="nomq_orcamento_projetos.css" crc="3813781081" ref="orcamento_projetos"/>
+    <file name="iefonts_orcamento_projetos.css" crc="3824530138" ref="orcamento_projetos"/>
+    <file name="contato.css" crc="343567215" ref="contato"/>
+    <file name="nomq_contato.css" crc="4239674747" ref="contato"/>
+    <file name="iefonts_contato.css" crc="3824530138" ref="contato"/>
+    <file name="index.css" crc="4136049145" ref="index"/>
+    <file name="nomq_index.css" crc="3761990060" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="orcamento_outros.css" crc="3877056122" ref="orcamento_outros"/>
+    <file name="nomq_orcamento_outros.css" crc="3986488955" ref="orcamento_outros"/>
+    <file name="iefonts_orcamento_outros.css" crc="3824530138" ref="orcamento_outros"/>
+    <file name="orcamento.css" crc="3774308414" ref="orcamento"/>
+    <file name="nomq_orcamento.css" crc="194379020" ref="orcamento"/>
+    <file name="iefonts_orcamento.css" crc="3824530138" ref="orcamento"/>
+    <file name="como-funciona.css" crc="4161615396" ref="como-funciona"/>
+    <file name="nomq_como-funciona.css" crc="18604173" ref="como-funciona"/>
+    <file name="iefonts_como-funciona.css" crc="3824530138" ref="como-funciona"/>
+    <file name="confirmado.css" crc="458622557" ref="confirmado"/>
+    <file name="nomq_confirmado.css" crc="64659319" ref="confirmado"/>
+    <file name="master_menu.css" crc="4159192275" ref="confirmado:orcamento_reforma:orcamento_outros:index:orcamento_projetos:como-funciona:contato:fornecedor:orcamento:confirmado_f"/>
+    <file name="nomq_preview_master_menu.css" crc="3938091675" ref="confirmado:orcamento_reforma:orcamento_outros:index:orcamento_projetos:como-funciona:contato:fornecedor:orcamento:confirmado_f"/>
+    <file name="master_site.css" crc="3832552574" ref="confirmado:index:como-funciona:contato:confirmado_f"/>
+    <file name="nomq_preview_master_site.css" crc="4285116149" ref="confirmado:index:como-funciona:contato:confirmado_f"/>
+    <file name="iefonts_confirmado.css" crc="3824530138" ref="confirmado"/>
+    <file name="confirmado_f.css" crc="520169014" ref="confirmado_f"/>
+    <file name="nomq_confirmado_f.css" crc="317772765" ref="confirmado_f"/>
+    <file name="iefonts_confirmado_f.css" crc="3824530138" ref="confirmado_f"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:como-funciona:contato:fornecedor:confirmado:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:confirmado_f"/>
+    <file name="museutils.js" crc="4232573551" ref="index:como-funciona:contato:fornecedor:confirmado:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:confirmado_f"/>
+    <file name="whatinput.js" crc="86476730" ref="index:como-funciona:contato:fornecedor:confirmado:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:confirmado_f"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:como-funciona:contato:fornecedor:confirmado:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:confirmado_f"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:como-funciona:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:confirmado:confirmado_f"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:como-funciona:contato:fornecedor:confirmado:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:confirmado_f"/>
+    <file name="webpro.js" crc="3770351119" ref="contato:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:index:como-funciona:fornecedor:confirmado:confirmado_f"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:index:como-funciona:contato:fornecedor:confirmado:confirmado_f"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:index:como-funciona:contato:fornecedor:confirmado:confirmado_f"/>
+    <file name="touchswipe.js" crc="3912873526" ref="orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:index:como-funciona:contato:fornecedor:confirmado:confirmado_f"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:como-funciona:contato:fornecedor:confirmado:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:confirmado_f"/>
+    <file name="require.js" crc="4234670167" ref="index:como-funciona:contato:fornecedor:confirmado:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:confirmado_f"/>
+    <file name="form_check.php" crc="3841221102" ref="contato"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contato"/>
+    <file name="form_process.php" crc="3899230280" ref="contato"/>
+    <file name="form-u59425.php" crc="450371891" ref="contato"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index:como-funciona:contato:confirmado:confirmado_f"/>
+  </folder>
+  <folder name="images">
+    <file name="dynamic-office-space-the-benefits-of-alternating-your-workspace-future-working-environments-isnt-just-limited-to-within-traditional-architects-ju-hyun-kim-and-euno-cho_architecture-open-space_architec.jpg" crc="3833159814" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002-symbol.svg" crc="151265936" ref="index:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros"/>
+    <file name="002-symbol_poster_u58819.png" crc="4182721898" ref="index:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros"/>
+    <file name="003-tools.svg" crc="4048990737" ref="index:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros"/>
+    <file name="003-tools_poster_u58827.png" crc="536505113" ref="index:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros"/>
+    <file name="001-people.svg" crc="4170317110" ref="index:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros"/>
+    <file name="001-people_poster_u58835.png" crc="185937024" ref="index:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros"/>
+    <file name="calculator-calculation-insurance-finance-53621.jpg" crc="181815402" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002-shovel.svg" crc="4129253316" ref="index"/>
+    <file name="002-shovel_poster_u60044.png" crc="4173306633" ref="index"/>
+    <file name="009-paintbrush.svg" crc="3869087608" ref="index"/>
+    <file name="009-paintbrush_poster_u59972.png" crc="4169439441" ref="index"/>
+    <file name="plug.svg" crc="179223416" ref="index"/>
+    <file name="plug_poster_u59996.png" crc="259123461" ref="index"/>
+    <file name="004-pipe-losing-water.svg" crc="3988949020" ref="index"/>
+    <file name="004-pipe-losing-water_poster_u60020.png" crc="30710502" ref="index"/>
+    <file name="008-tool.svg" crc="135543667" ref="index"/>
+    <file name="008-tool_poster_u59980.png" crc="442442381" ref="index"/>
+    <file name="003-handyman-tools.svg" crc="193442381" ref="index"/>
+    <file name="003-handyman-tools_poster_u60052.png" crc="3792551284" ref="index"/>
+    <file name="007-minisplit.svg" crc="3876487031" ref="index"/>
+    <file name="007-minisplit_poster_u59988.png" crc="370877551" ref="index"/>
+    <file name="005-weather.svg" crc="4096741010" ref="index"/>
+    <file name="005-weather_poster_u60012.png" crc="4211549418" ref="index"/>
+    <file name="006-glass-wall.svg" crc="4026553523" ref="index"/>
+    <file name="006-glass-wall_poster_u60004.png" crc="425184211" ref="index"/>
+    <file name="001-bricks-wall-and-demolition-ball.svg" crc="390197573" ref="index"/>
+    <file name="001-bricks-wall-and-demolition-ball_poster_u60036.png" crc="85277358" ref="index"/>
+    <file name="keywords.svg" crc="431816639" ref="index"/>
+    <file name="keywords_poster_u78801.png" crc="4061977529" ref="index"/>
+    <file name="cube.svg" crc="382264028" ref="index"/>
+    <file name="cube_poster_u60028.png" crc="4237017519" ref="index"/>
+    <file name="dynamic-office-space-the-benefits-of-alternating-your-workspace-future-working-environments-isnt-just-limited-to-within-traditional-architects-ju-hyun-kim-and-euno-cho_architecture-open-space_architec-u32501-fr.jpg" crc="223859508" ref="index"/>
+    <file name="calculator-calculation-insurance-finance-53621-u69297-fr.jpg" crc="100682471" ref="index"/>
+    <file name="dynamic-office-space-the-benefits-of-alternating-your-workspace-future-working-environments-isnt-just-limited-to-within-traditional-architects-ju-hyun-kim-and-euno-cho_architecture-open-space_architec-u32501-fr2.jpg" crc="4289819085" ref="index"/>
+    <file name="calculator-calculation-insurance-finance-53621-u69297-fr2.jpg" crc="4084390157" ref="index"/>
+    <file name="dynamic-office-space-the-benefits-of-alternating-your-workspace-future-working-environments-isnt-just-limited-to-within-traditional-architects-ju-hyun-kim-and-euno-cho_architecture-open-space_architec-u32501-fr3.jpg" crc="311141603" ref="index"/>
+    <file name="calculator-calculation-insurance-finance-53621-u69297-fr3.jpg" crc="3993055384" ref="index"/>
+    <file name="calculator-calculation-insurance-finance-53621-u69297-fr4.jpg" crc="3936839692" ref="index"/>
+    <file name="choice(1).svg" crc="39070093" ref="como-funciona"/>
+    <file name="choice(1)_poster_u58324.png" crc="230398602" ref="como-funciona"/>
+    <file name="003-store.svg" crc="3937807289" ref="como-funciona"/>
+    <file name="003-store_poster_u58396.png" crc="294060539" ref="como-funciona"/>
+    <file name="001-tools.svg" crc="339918161" ref="como-funciona"/>
+    <file name="001-tools_poster_u58356.png" crc="3956175155" ref="como-funciona"/>
+    <file name="002-people.svg" crc="3989948137" ref="como-funciona"/>
+    <file name="002-people_poster_u58388.png" crc="348649277" ref="como-funciona"/>
+    <file name="hp_whyph1_workers.png" crc="4243558852" ref="orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros">
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento" alt=""/>
+      <caption webpage="orcamento" alt=""/>
+      <caption webpage="orcamento" alt=""/>
+      <caption webpage="orcamento" alt=""/>
+      <caption webpage="orcamento_outros" alt=""/>
+      <caption webpage="orcamento_outros" alt=""/>
+      <caption webpage="orcamento_outros" alt=""/>
+      <caption webpage="orcamento_projetos" alt=""/>
+      <caption webpage="orcamento_projetos" alt=""/>
+      <caption webpage="orcamento_projetos" alt=""/>
+    </file>
+    <file name="logo_pb.jpg" crc="4231826030" ref="orcamento_reforma">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="confirmado" alt=""/>
+      <caption webpage="confirmado" alt=""/>
+      <caption webpage="confirmado" alt=""/>
+      <caption webpage="confirmado" alt=""/>
+      <caption webpage="confirmado" alt=""/>
+      <caption webpage="como-funciona" alt=""/>
+      <caption webpage="como-funciona" alt=""/>
+      <caption webpage="como-funciona" alt=""/>
+      <caption webpage="como-funciona" alt=""/>
+      <caption webpage="como-funciona" alt=""/>
+    </file>
+    <file name="menu-alt-256.png" crc="191789486" seo="true" ref="index:como-funciona:contato:fornecedor:confirmado:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:confirmado_f">
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento_reforma" alt=""/>
+      <caption webpage="orcamento" alt=""/>
+      <caption webpage="orcamento" alt=""/>
+      <caption webpage="orcamento" alt=""/>
+      <caption webpage="confirmado" alt=""/>
+      <caption webpage="confirmado" alt=""/>
+      <caption webpage="confirmado" alt=""/>
+      <caption webpage="confirmado_f" alt=""/>
+      <caption webpage="confirmado_f" alt=""/>
+      <caption webpage="confirmado_f" alt=""/>
+      <caption webpage="orcamento_outros" alt=""/>
+      <caption webpage="orcamento_outros" alt=""/>
+      <caption webpage="orcamento_outros" alt=""/>
+      <caption webpage="orcamento_projetos" alt=""/>
+      <caption webpage="orcamento_projetos" alt=""/>
+      <caption webpage="orcamento_projetos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fornecedor" alt=""/>
+      <caption webpage="fornecedor" alt=""/>
+      <caption webpage="fornecedor" alt=""/>
+      <caption webpage="como-funciona" alt=""/>
+      <caption webpage="como-funciona" alt=""/>
+      <caption webpage="como-funciona" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="status" alt=""/>
+      <caption webpage="status" alt=""/>
+      <caption webpage="status" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:como-funciona:contato:fornecedor:confirmado:orcamento:orcamento_reforma:orcamento_projetos:orcamento_outros:confirmado_f"/>
+    <file name="money(1).svg" crc="477672726" ref="confirmado"/>
+    <file name="money(1)_poster_u271009.png" crc="4111507887" ref="confirmado"/>
+    <file name="list.svg" crc="4220538" ref="confirmado_f"/>
+    <file name="list_poster_u271261.png" crc="89320390" ref="confirmado_f"/>
+    <file name="002-stopwatch.svg" crc="298475902" ref="como-funciona"/>
+    <file name="002-stopwatch_poster_u271497.png" crc="3919290756" ref="como-funciona"/>
+    <file name="003-price-tag.svg" crc="4223397810" ref="como-funciona"/>
+    <file name="003-price-tag_poster_u271505.png" crc="41194428" ref="como-funciona"/>
+    <file name="001-money.svg" crc="301207208" ref="como-funciona"/>
+    <file name="001-money_poster_u271513.png" crc="186651670" ref="como-funciona"/>
+    <file name="002-padlock.svg" crc="4171035349" ref="index"/>
+    <file name="002-padlock_poster_u271786.png" crc="258155931" ref="index"/>
+    <file name="001-people 2.svg" crc="4225318851" ref="index"/>
+    <file name="001-people 2_poster_u271794.png" crc="4284290707" ref="index"/>
+    <file name="stopwatch.svg" crc="263900752" ref="index"/>
+    <file name="stopwatch_poster_u271802.png" crc="356293507" ref="index"/>
+    <file name="ativo 3.svg" crc="4161071645" ref="index"/>
+    <file name="ativo 3_poster_u273500.png" crc="4125340739" ref="index"/>
+    <file name="favicon.ico" crc="4156433946" ref="index"/>
+  </folder>
+  <file name="index.html" crc="216504855" seo="true" mt="1498676590296" redirect="true"/>
+  <file name="como-funciona.html" crc="7857400" seo="true" mt="1498676590296" redirect="true"/>
+  <file name="contato.html" crc="4080640309" seo="true" mt="1498676590296" redirect="true"/>
+  <file name="fornecedor.html" crc="4172942575" seo="true" mt="1498675639121" redirect="true"/>
+  <file name="confirmado.html" crc="3830261087" seo="true" mt="1498676590296" redirect="true"/>
+  <file name="orcamento.html" crc="330934319" seo="true" mt="1498676668206" redirect="true"/>
+  <file name="orcamento_reforma.html" crc="3979029065" seo="true" mt="1498676693206" redirect="true"/>
+  <file name="orcamento_projetos.html" crc="4222584191" seo="true" mt="1498676704518" redirect="true"/>
+  <file name="orcamento_outros.html" crc="514714970" seo="true" mt="1498676716550" redirect="true"/>
+  <file name="confirmado_f.html" crc="3877390342" seo="true" mt="1498676590296" redirect="true"/>
+  <site>
+    <asset filename="videoplayback.mp4" muse_href="upload:U32500"/>
+    <asset filename="21.jpg" muse_href="upload:U271632"/>
+    <asset filename="12.jpg" muse_href="upload:U271634"/>
+    <asset filename="6.jpg" muse_href="upload:U271636"/>
+    <asset filename="19-2.jpg" muse_href="upload:U271638"/>
+    <asset filename="62.jpg" muse_href="upload:U271640"/>
+    <asset filename="12-2.jpg" muse_href="upload:U271642"/>
+    <asset filename="212.jpg" muse_href="upload:U271644"/>
+    <asset filename="13.jpg" muse_href="upload:U271646"/>
+    <asset filename="5.jpg" muse_href="upload:U271648"/>
+    <asset filename="3-1.jpg" muse_href="upload:U271650"/>
+    <asset filename="20.jpg" muse_href="upload:U271652"/>
+    <asset filename="11.jpg" muse_href="upload:U271654"/>
+    <asset filename="2.jpg" muse_href="upload:U271661"/>
+    <asset filename="11-3.jpg" muse_href="upload:U271663"/>
+    <asset filename="10.jpg" muse_href="upload:U271665"/>
+    <asset filename="19.jpg" muse_href="upload:U271667"/>
+    <asset filename="3.jpg" muse_href="upload:U271672"/>
+    <asset filename="18.jpg" muse_href="upload:U271674"/>
+    <asset filename="9.jpg" muse_href="upload:U271676"/>
+    <asset filename="3-12.jpg" muse_href="upload:U271678"/>
+    <asset filename="11-32.jpg" muse_href="upload:U271680"/>
+    <asset filename="8.jpg" muse_href="upload:U271682"/>
+    <asset filename="182.jpg" muse_href="upload:U271684"/>
+    <asset filename="82.jpg" muse_href="upload:U271689"/>
+    <asset filename="192.jpg" muse_href="upload:U271691"/>
+    <asset filename="kiss1.jpg" muse_href="upload:U271693"/>
+    <asset filename="kiss12.jpg" muse_href="upload:U271695"/>
+    <asset filename="4.jpg" muse_href="upload:U271697"/>
+    <asset filename="92.jpg" muse_href="upload:U271699"/>
+    <asset filename="11-2.jpg" muse_href="upload:U271701"/>
+    <asset filename="1.jpg" muse_href="upload:U271703"/>
+    <asset filename="11-22.jpg" muse_href="upload:U271705"/>
+    <asset filename="102.jpg" muse_href="upload:U271707"/>
+    <asset filename="12-22.jpg" muse_href="upload:U271709"/>
+    <asset filename="202.jpg" muse_href="upload:U271711"/>
+    <asset filename="19-22.jpg" muse_href="upload:U271713"/>
+    <asset filename="132.jpg" muse_href="upload:U271715"/>
+    <asset filename="16.jpg" muse_href="upload:U271717"/>
+    <asset filename="52.jpg" muse_href="upload:U271719"/>
+    <asset filename="kiss2.jpg" muse_href="upload:U271724"/>
+    <asset filename="42.jpg" muse_href="upload:U271726"/>
+    <asset filename="162.jpg" muse_href="upload:U271728"/>
+    <asset filename="14.jpg" muse_href="upload:U271730"/>
+    <asset filename="112.jpg" muse_href="upload:U271732"/>
+    <asset filename="kiss22.jpg" muse_href="upload:U271734"/>
+    <asset filename="122.jpg" muse_href="upload:U271736"/>
+    <asset filename="32.jpg" muse_href="upload:U271738"/>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Início" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U271810" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U31380" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U32481" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U38825" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <masterPage name="Site" master="U256508" uid="U72">
+        <breakpoint uid="U149967" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U22534" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U22470" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U38990" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </masterPage>
+      <masterPage name="Menu" master="U62" uid="U256508">
+        <breakpoint uid="U256682" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U256725" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U256511" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U256554" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U256635" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1280" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Como Funciona" filename="como-funciona.html" muse_href="page:U31501" master="U72">
+        <breakpoint uid="U271581" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U58257" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U58248" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U58239" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U31485" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Contato" filename="contato.html" muse_href="page:U31537" master="U72">
+        <breakpoint uid="U59597" maxwidth="480" minwidth="0" squishy="true"/>
+        <breakpoint uid="U59573" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U59549" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U31521" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Fornecedor" filename="fornecedor.html" muse_href="page:U57781" master="U256508">
+        <breakpoint uid="U270405" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U60168" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U60162" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U60156" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U57765" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Confirmado" filename="confirmado.html" muse_href="page:U220600" master="U72">
+        <breakpoint uid="U271100" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U271088" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U271076" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U271064" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U220578" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Orçamento de Construção" filename="orcamento.html" muse_href="page:U253671" master="U82916">
+        <breakpoint uid="U252689" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U252034" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U253016" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U252362" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U253343" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <masterPage name="Construção" master="U256508" uid="U82916">
+        <breakpoint uid="U82962" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U82954" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U82946" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U82938" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U82917" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </masterPage>
+      <page name="Orçamento de Reforma" filename="orcamento_reforma.html" muse_href="page:U255942" master="U256037">
+        <breakpoint uid="U254385" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U254716" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U255279" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U255609" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U254055" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <masterPage name="Reforma" master="U256508" uid="U256037">
+        <breakpoint uid="U256254" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U256040" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U256083" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U256126" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U256173" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </masterPage>
+      <page name="Orçamento de Projetos" filename="orcamento_projetos.html" muse_href="page:U259184" master="U259185">
+        <breakpoint uid="U258854" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U258521" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U257298" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U257628" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U258190" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <masterPage name="Projetos" master="U256508" uid="U259185">
+        <breakpoint uid="U259259" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U259277" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U259188" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U259206" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U259237" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </masterPage>
+      <page name="Orçamento" filename="orcamento_outros.html" muse_href="page:U263122" master="U263123">
+        <breakpoint uid="U261797" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U261235" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U262462" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U262792" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U262132" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <masterPage name="Outros" master="U256508" uid="U263123">
+        <breakpoint uid="U263142" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U263197" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U263215" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U263178" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U263160" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </masterPage>
+      <page name="Confirmado" filename="confirmado_f.html" muse_href="page:U271260" master="U72">
+        <breakpoint uid="U271246" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U271215" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U271189" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U271202" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U271234" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>

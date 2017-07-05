@@ -1,0 +1,885 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.aqcez.com.br" ftp_rootfolder="/public_html/google" exportTarget="FTP" domain="www.aqcez.com.br/google" resolutions="1x" timestamp="1495133253341">
+  <folder name="css">
+    <file name="site_global.css" crc="205954113"/>
+    <file name="master_a-mestre.css" crc="4021804911" ref="index:edificacoes:imprensa:entretenimento:hoteleiro:quem-somos:educacional:comercial:hospitalar:portfolio:segmentos:orcamento:o-que-fazemos:fale-conosco:corporativo:industrial:obrigado"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="454198162" ref="index:edificacoes:imprensa:entretenimento:hoteleiro:quem-somos:educacional:comercial:hospitalar:portfolio:segmentos:orcamento:o-que-fazemos:fale-conosco:corporativo:industrial:obrigado"/>
+    <file name="index.css" crc="132548978" ref="index"/>
+    <file name="nomq_index.css" crc="276986302" ref="index"/>
+    <file name="iefonts_index.css" crc="3936982066" ref="index"/>
+    <file name="edificacoes.css" crc="4136629859" ref="edificacoes"/>
+    <file name="nomq_edificacoes.css" crc="3835669924" ref="edificacoes"/>
+    <file name="iefonts_edificacoes.css" crc="3936982066" ref="edificacoes"/>
+    <file name="imprensa.css" crc="205911444" ref="imprensa"/>
+    <file name="nomq_imprensa.css" crc="3920673915" ref="imprensa"/>
+    <file name="iefonts_imprensa.css" crc="3936982066" ref="imprensa"/>
+    <file name="entretenimento.css" crc="125803682" ref="entretenimento"/>
+    <file name="nomq_entretenimento.css" crc="127930186" ref="entretenimento"/>
+    <file name="iefonts_entretenimento.css" crc="3936982066" ref="entretenimento"/>
+    <file name="hoteleiro.css" crc="467866823" ref="hoteleiro"/>
+    <file name="nomq_hoteleiro.css" crc="3982279346" ref="hoteleiro"/>
+    <file name="iefonts_hoteleiro.css" crc="3936982066" ref="hoteleiro"/>
+    <file name="quem-somos.css" crc="390289887" ref="quem-somos"/>
+    <file name="nomq_quem-somos.css" crc="279798519" ref="quem-somos"/>
+    <file name="iefonts_quem-somos.css" crc="3936982066" ref="quem-somos"/>
+    <file name="educacional.css" crc="150052640" ref="educacional"/>
+    <file name="nomq_educacional.css" crc="9978225" ref="educacional"/>
+    <file name="iefonts_educacional.css" crc="3936982066" ref="educacional"/>
+    <file name="comercial.css" crc="3804162564" ref="comercial"/>
+    <file name="nomq_comercial.css" crc="3920525746" ref="comercial"/>
+    <file name="iefonts_comercial.css" crc="3936982066" ref="comercial"/>
+    <file name="hospitalar.css" crc="150706957" ref="hospitalar"/>
+    <file name="nomq_hospitalar.css" crc="533071060" ref="hospitalar"/>
+    <file name="iefonts_hospitalar.css" crc="3936982066" ref="hospitalar"/>
+    <file name="portfolio.css" crc="3955291605" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="177551733" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="3936982066" ref="portfolio"/>
+    <file name="segmentos.css" crc="3791651044" ref="segmentos"/>
+    <file name="nomq_segmentos.css" crc="323807552" ref="segmentos"/>
+    <file name="iefonts_segmentos.css" crc="3936982066" ref="segmentos"/>
+    <file name="orcamento.css" crc="470775912" ref="orcamento"/>
+    <file name="nomq_orcamento.css" crc="4054326068" ref="orcamento"/>
+    <file name="o-que-fazemos.css" crc="268937281" ref="o-que-fazemos"/>
+    <file name="nomq_o-que-fazemos.css" crc="3782129918" ref="o-que-fazemos"/>
+    <file name="iefonts_o-que-fazemos.css" crc="3936982066" ref="o-que-fazemos"/>
+    <file name="fale-conosco.css" crc="245362513" ref="fale-conosco"/>
+    <file name="nomq_fale-conosco.css" crc="57569642" ref="fale-conosco"/>
+    <file name="corporativo.css" crc="56498621" ref="corporativo"/>
+    <file name="nomq_corporativo.css" crc="199761354" ref="corporativo"/>
+    <file name="iefonts_corporativo.css" crc="3936982066" ref="corporativo"/>
+    <file name="industrial.css" crc="439367263" ref="industrial"/>
+    <file name="nomq_industrial.css" crc="188403201" ref="industrial"/>
+    <file name="iefonts_industrial.css" crc="3936982066" ref="industrial"/>
+    <file name="obrigado.css" crc="4290475500" ref="obrigado"/>
+    <file name="nomq_obrigado.css" crc="4207305745" ref="obrigado"/>
+    <file name="iefonts_obrigado.css" crc="3936982066" ref="obrigado"/>
+    <file name="iefonts_orcamento.css" crc="3936982066" ref="orcamento"/>
+    <file name="iefonts_fale-conosco.css" crc="3936982066" ref="fale-conosco"/>
+  </folder>
+  <folder name="assets">
+    <file name="lg.svg" crc="466834863" seo="true" mt="1461631096000"/>
+    <file name="lg.ttf" crc="288589608" seo="true" mt="1461631096000"/>
+    <file name="lg.eot" crc="196672403" seo="true" mt="1461631096000"/>
+    <file name="lg.woff" crc="4131552084" seo="true" mt="1461631096000"/>
+    <file name="adding-the-icons---add-first.rtf" crc="466878006" seo="true" mt="1467653131000"/>
+    <file name="1.jpg" crc="4214876231" seo="true" mt="1490055402000"/>
+    <file name="3-1.jpg" crc="385554657" seo="true" mt="1490055402000"/>
+    <file name="3.jpg" crc="31120618" seo="true" mt="1490055402000"/>
+    <file name="4.jpg" crc="103990897" seo="true" mt="1490055402000"/>
+    <file name="5.jpg" crc="4124493418" seo="true" mt="1490055402000"/>
+    <file name="6.jpg" crc="458543826" seo="true" mt="1490055402000"/>
+    <file name="8.jpg" crc="30969599" seo="true" mt="1490055402000"/>
+    <file name="9.jpg" crc="242159767" seo="true" mt="1490055402000"/>
+    <file name="10.jpg" crc="336172412" seo="true" mt="1490055402000"/>
+    <file name="11-2.jpg" crc="104099718" seo="true" mt="1490055402000"/>
+    <file name="11-3.jpg" crc="250743110" seo="true" mt="1490055402000"/>
+    <file name="11.jpg" crc="23105092" seo="true" mt="1490055402000"/>
+    <file name="12-2.jpg" crc="362418668" seo="true" mt="1490055402000"/>
+    <file name="12.jpg" crc="3865998250" seo="true" mt="1490055402000"/>
+    <file name="13.jpg" crc="448686739" seo="true" mt="1490055402000"/>
+    <file name="16.jpg" crc="326056596" seo="true" mt="1490055402000"/>
+    <file name="18.jpg" crc="338855985" seo="true" mt="1490055402000"/>
+    <file name="19-2.jpg" crc="4294894258" seo="true" mt="1490055402000"/>
+    <file name="19.jpg" crc="402833282" seo="true" mt="1490055402000"/>
+    <file name="20.jpg" crc="531155448" seo="true" mt="1490055402000"/>
+    <file name="21.jpg" crc="4027706285" seo="true" mt="1490055402000"/>
+    <file name="kiss1.jpg" crc="256883368" seo="true" mt="1490055402000"/>
+    <file name="kiss2.jpg" crc="77691737" seo="true" mt="1490055402000"/>
+    <file name="2.jpg" crc="150089873" seo="true" mt="1490053016000"/>
+    <file name="14.jpg" crc="232936431" seo="true" mt="1490053016000"/>
+    <file name="3-12.jpg" crc="3870170953" seo="true" mt="1490053016000"/>
+    <file name="32.jpg" crc="159851560" seo="true" mt="1490053016000"/>
+    <file name="42.jpg" crc="3905501806" seo="true" mt="1490053016000"/>
+    <file name="52.jpg" crc="402833203" seo="true" mt="1490053016000"/>
+    <file name="62.jpg" crc="338685771" seo="true" mt="1490053016000"/>
+    <file name="82.jpg" crc="301872329" seo="true" mt="1490053016000"/>
+    <file name="92.jpg" crc="4153430905" seo="true" mt="1490053016000"/>
+    <file name="102.jpg" crc="4239592928" seo="true" mt="1490053016000"/>
+    <file name="11-22.jpg" crc="4293080724" seo="true" mt="1490053016000"/>
+    <file name="11-32.jpg" crc="4125942981" seo="true" mt="1490053016000"/>
+    <file name="112.jpg" crc="335323565" seo="true" mt="1490053016000"/>
+    <file name="12-22.jpg" crc="4050218402" seo="true" mt="1490053016000"/>
+    <file name="122.jpg" crc="4203730707" seo="true" mt="1490053016000"/>
+    <file name="132.jpg" crc="45401353" seo="true" mt="1490053016000"/>
+    <file name="162.jpg" crc="3781100331" seo="true" mt="1490053016000"/>
+    <file name="182.jpg" crc="85783875" seo="true" mt="1490053016000"/>
+    <file name="19-22.jpg" crc="3962281537" seo="true" mt="1490053016000"/>
+    <file name="192.jpg" crc="3867113564" seo="true" mt="1490053016000"/>
+    <file name="202.jpg" crc="83435992" seo="true" mt="1490053016000"/>
+    <file name="212.jpg" crc="6976203" seo="true" mt="1490053016000"/>
+    <file name="kiss12.jpg" crc="494526269" seo="true" mt="1490053016000"/>
+    <file name="kiss22.jpg" crc="4252758211" seo="true" mt="1490053016000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:industrial:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="museutils.js" crc="4232573551" ref="index:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:industrial:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="whatinput.js" crc="86476730" ref="index:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:industrial:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:industrial:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="webpro.js" crc="3770351119" ref="index:industrial:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:industrial:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:industrial:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:industrial:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:industrial:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:o-que-fazemos:segmentos:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:industrial:entretenimento:hospitalar:hoteleiro:imprensa"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u47493.php" crc="4132721344" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:industrial:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="require.js" crc="4234670167" ref="index:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:industrial:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:industrial:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:industrial:entretenimento:hospitalar:orcamento:hoteleiro:imprensa"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="159169343" ref="index:segmentos"/>
+    <file name="shutterstock_111398168.jpg" crc="3930096586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:entretenimento:hospitalar:orcamento:hoteleiro:imprensa:industrial"/>
+    <file name="shutterstock_352137068.jpg" crc="185579692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0183.jpg" crc="308234176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_50572087-u51825-fr.jpg" crc="4066579676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_159586898.jpg" crc="247717021" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_174987662.jpg" crc="4174654294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_358690952.jpg" crc="74460461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_287442458 2.jpg" crc="4075159816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="8.jpg" crc="3943308413" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.jpg" crc="305367142" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cam 1.jpg" crc="4233384150" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25fb7859-369e-4353-a313-aecb9bd7f57c.jpg" crc="295494405" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="005-wall.svg" crc="3922162320" ref="index"/>
+    <file name="005-wall_poster_u47750.png" crc="59138287" ref="index"/>
+    <file name="004-creativity.svg" crc="4128117358" ref="index"/>
+    <file name="004-creativity_poster_u47926.png" crc="135866590" ref="index"/>
+    <file name="003-worker.svg" crc="3811927387" ref="index"/>
+    <file name="003-worker_poster_u47918.png" crc="340511206" ref="index"/>
+    <file name="002-database.svg" crc="4245951300" ref="index"/>
+    <file name="002-database_poster_u47910.png" crc="4212204482" ref="index"/>
+    <file name="001-settings.svg" crc="4119184391" ref="index:industrial:corporativo"/>
+    <file name="001-settings_poster_u47902.png" crc="4273978219" ref="index"/>
+    <file name="cam 1-u1748-fr.jpg" crc="196338346" ref="index"/>
+    <file name="8-u1578-fr.jpg" crc="434020993" ref="index"/>
+    <file name="cam 1-u1748-fr2.jpg" crc="4062377876" ref="index"/>
+    <file name="25fb7859-369e-4353-a313-aecb9bd7f57c-u1804-fr.jpg" crc="428555404" ref="index"/>
+    <file name="8-u1578-fr2.jpg" crc="277551361" ref="index"/>
+    <file name="12-u1707-fr.jpg" crc="309966588" ref="index"/>
+    <file name="cam 1-u1748-fr3.jpg" crc="3786930976" ref="index"/>
+    <file name="25fb7859-369e-4353-a313-aecb9bd7f57c-u1804-fr2.jpg" crc="4189144165" ref="index"/>
+    <file name="25fb7859-369e-4353-a313-aecb9bd7f57c-u1804-fr3.jpg" crc="4096026758" ref="index"/>
+    <file name="016-squares.svg" crc="65024714" ref="o-que-fazemos"/>
+    <file name="016-squares_poster_u51662.png" crc="23926079" ref="o-que-fazemos"/>
+    <file name="015-bricks-wall-and-demolition-ball.svg" crc="465282790" ref="o-que-fazemos"/>
+    <file name="015-bricks-wall-and-demolition-ball_poster_u51654.png" crc="3812747404" ref="o-que-fazemos"/>
+    <file name="014-constructing-a-brick-wall.svg" crc="3954967888" ref="o-que-fazemos"/>
+    <file name="014-constructing-a-brick-wall_poster_u51646.png" crc="142464752" ref="o-que-fazemos"/>
+    <file name="013-plug.svg" crc="3913981649" ref="o-que-fazemos"/>
+    <file name="013-plug_poster_u51638.png" crc="3933011566" ref="o-que-fazemos"/>
+    <file name="012-server.svg" crc="123765559" ref="o-que-fazemos"/>
+    <file name="012-server_poster_u51630.png" crc="4243778778" ref="o-que-fazemos"/>
+    <file name="011-pipes.svg" crc="35848292" ref="o-que-fazemos"/>
+    <file name="011-pipes_poster_u51622.png" crc="446330184" ref="o-que-fazemos"/>
+    <file name="010-fire-alarm.svg" crc="3848880173" ref="o-que-fazemos"/>
+    <file name="010-fire-alarm_poster_u51614.png" crc="4177080936" ref="o-que-fazemos"/>
+    <file name="009-casino-cctv.svg" crc="3852791437" ref="o-que-fazemos"/>
+    <file name="009-casino-cctv_poster_u51426.png" crc="264348225" ref="o-que-fazemos"/>
+    <file name="008-air-conditioner.svg" crc="3965649932" ref="o-que-fazemos"/>
+    <file name="008-air-conditioner_poster_u51418.png" crc="4163102869" ref="o-que-fazemos"/>
+    <file name="007-wood-cutting-device-outline.svg" crc="4048829983" ref="o-que-fazemos"/>
+    <file name="007-wood-cutting-device-outline_poster_u51410.png" crc="60237283" ref="o-que-fazemos"/>
+    <file name="006-welding.svg" crc="126407615" ref="o-que-fazemos"/>
+    <file name="006-welding_poster_u51402.png" crc="298277746" ref="o-que-fazemos"/>
+    <file name="luxury.svg" crc="357043043" ref="o-que-fazemos"/>
+    <file name="luxury_poster_u51696.png" crc="333266713" ref="o-que-fazemos"/>
+    <file name="001-social.svg" crc="3772858739" ref="o-que-fazemos"/>
+    <file name="001-social_poster_u51108.png" crc="4030733278" ref="o-que-fazemos"/>
+    <file name="004-wall-1.svg" crc="55613522" ref="o-que-fazemos"/>
+    <file name="004-wall-1_poster_u51386.png" crc="335800797" ref="o-que-fazemos"/>
+    <file name="005-wall2.svg" crc="492006966" ref="o-que-fazemos"/>
+    <file name="005-wall_poster_u51394.png" crc="3857754535" ref="o-que-fazemos"/>
+    <file name="002-paint-brush.svg" crc="4103767380" ref="o-que-fazemos"/>
+    <file name="002-paint-brush_poster_u51378.png" crc="4135389160" ref="o-que-fazemos"/>
+    <file name="008-social.svg" crc="3769176715" ref="segmentos"/>
+    <file name="008-social_poster_u87933.png" crc="4252152440" ref="segmentos"/>
+    <file name="building.svg" crc="395937485" ref="segmentos"/>
+    <file name="building_poster_u88013.png" crc="4033156218" ref="segmentos"/>
+    <file name="006-office.svg" crc="468511723" ref="segmentos"/>
+    <file name="006-office_poster_u88005.png" crc="4197824279" ref="segmentos"/>
+    <file name="009-business.svg" crc="4269922963" ref="segmentos"/>
+    <file name="009-business_poster_u87941.png" crc="3850461607" ref="segmentos"/>
+    <file name="004-social-1.svg" crc="465966140" ref="segmentos"/>
+    <file name="004-social-1_poster_u87949.png" crc="4002835751" ref="segmentos"/>
+    <file name="covered-food-tray-on-a-hand-of-hotel-room-service.svg" crc="4076393097" ref="segmentos"/>
+    <file name="covered-food-tray-on-a-hand-of-hotel-room-service_poster_u91122.png" crc="435425471" ref="segmentos"/>
+    <file name="001-medical.svg" crc="3835385622" ref="segmentos"/>
+    <file name="001-medical_poster_u87997.png" crc="45575956" ref="segmentos"/>
+    <file name="002-food.svg" crc="3984059003" ref="segmentos"/>
+    <file name="002-food_poster_u87973.png" crc="150926466" ref="segmentos"/>
+    <file name="p6-2 2.jpg" crc="3933527235" ref="quem-somos">
+      <caption webpage="quem-somos" alt=""/>
+    </file>
+    <file name="multimedia.svg" crc="358516899" ref="obrigado"/>
+    <file name="multimedia_poster_u89398.png" crc="235645677" ref="obrigado"/>
+    <file name="shutterstock_159586898-1.jpg" crc="152022593" ref="comercial">
+      <caption webpage="comercial" alt=""/>
+    </file>
+    <file name="shutterstock_159586898-2.jpg" crc="3963755504" ref="comercial">
+      <caption webpage="comercial" alt=""/>
+    </file>
+    <file name="shutterstock_358690952-2.jpg" crc="80163808" ref="educacional">
+      <caption webpage="educacional" alt=""/>
+    </file>
+    <file name="shutterstock_50572087.jpg" crc="4196739751" ref="edificacoes">
+      <caption webpage="edificacoes" alt=""/>
+    </file>
+    <file name="shutterstock_50572087-2.jpg" crc="502669169" ref="edificacoes">
+      <caption webpage="edificacoes" alt=""/>
+    </file>
+    <file name="pexels-photo-209251.jpg" crc="93826354" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+    </file>
+    <file name="003-checked.svg" crc="97010601" ref="industrial:corporativo"/>
+    <file name="003-checked_poster_u100422.png" crc="4041027291" ref="industrial:corporativo"/>
+    <file name="002-pen.svg" crc="11977447" ref="industrial:corporativo"/>
+    <file name="002-pen_poster_u100549.png" crc="83978929" ref="industrial:corporativo"/>
+    <file name="001-settings_poster_u100557.png" crc="3913364211" ref="industrial:corporativo"/>
+    <file name="prefeitura.jpg" crc="512426637" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="teletech.jpg" crc="124421015" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="bayer.jpg" crc="73276116" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="eletropaulo.jpg" crc="3901738690" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="br.jpg" crc="4033970030" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="edp.jpg" crc="489582345" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="convatec.jpg" crc="4270558880" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="nestle.jpg" crc="3990618202" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="sitel.jpg" crc="3940530891" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="sanofi.jpg" crc="3782815395" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="samsung.jpg" crc="3813720683" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="contax.jpg" crc="3925584562" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="ibm.jpg" crc="433938884" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="cimpor.jpg" crc="247454859" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="mc.jpg" crc="3824384382" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="camargo.jpg" crc="4168768380" ref="industrial:corporativo">
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+    </file>
+    <file name="pexels-photo-209251-u86992-fr.jpg" crc="150886943" ref="industrial:corporativo"/>
+    <file name="img_0183-1.jpg" crc="3993693975" ref="entretenimento">
+      <caption webpage="entretenimento" alt=""/>
+    </file>
+    <file name="img_0183-2.jpg" crc="30497167" ref="entretenimento">
+      <caption webpage="entretenimento" alt=""/>
+    </file>
+    <file name="shutterstock_3521370682.jpg" crc="185579692" ref="hospitalar">
+      <caption webpage="hospitalar" alt=""/>
+    </file>
+    <file name="shutterstock_352137068-2.jpg" crc="4188637734" ref="hospitalar">
+      <caption webpage="hospitalar" alt=""/>
+    </file>
+    <file name="pexels-photo-48739.jpg" crc="4221140832" ref="hoteleiro">
+      <caption webpage="hoteleiro" alt=""/>
+    </file>
+    <file name="pegn.jpg" crc="4015279949" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="edu3.jpg" crc="286917386" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="imagem colada 500x232.png" crc="4174314331" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="imagem colada 320x89.png" crc="3951701349" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="imagem colada 212x44.jpg" crc="4249995202" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="imagem colada 272x90-crop-u93199.png" crc="4240913618" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="imagem colada 260x92.jpg" crc="4169166400" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="imagem colada 260x87.png" crc="4016727614" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="imagem colada 387x120.png" crc="4138493262" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="imagem colada 414x120.png" crc="3814889669" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="imagem colada 344x120.png" crc="3874626032" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="edu3-u95799-fr.jpg" crc="521003337" ref="imprensa"/>
+    <file name="imagem colada 272x90-crop-u931992.png" crc="4240913618" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="edu3-u96477-fr.jpg" crc="3862198084" ref="imprensa"/>
+    <file name="imagem colada 272x90-crop-u931993.png" crc="4240913618" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="edu3-u96477-fr2.jpg" crc="3825560153" ref="imprensa"/>
+    <file name="imagem colada 272x90-crop-u931994.png" crc="143380671" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="pegn-u98019-fr.jpg" crc="4115753241" ref="imprensa"/>
+    <file name="edu3-u96477-fr3.jpg" crc="71360192" ref="imprensa"/>
+    <file name="imagem colada 272x90-crop-u931995.png" crc="143380671" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="logo_preto - 2017.svg" crc="3778629295" ref="index:segmentos"/>
+    <file name="logo_preto - 2017_poster_u31318.png" crc="452864599" ref="index:segmentos"/>
+    <file name="menu-alt-256.png" crc="191789486" seo="true" ref="index:o-que-fazemos:segmentos:portfolio:fale-conosco:quem-somos:obrigado:corporativo:comercial:educacional:edificacoes:industrial:entretenimento:hospitalar:orcamento:hoteleiro:imprensa">
+      <caption webpage="educacional" alt=""/>
+      <caption webpage="educacional" alt=""/>
+      <caption webpage="educacional" alt=""/>
+      <caption webpage="educacional" alt=""/>
+      <caption webpage="edificacoes" alt=""/>
+      <caption webpage="edificacoes" alt=""/>
+      <caption webpage="edificacoes" alt=""/>
+      <caption webpage="edificacoes" alt=""/>
+      <caption webpage="obrigado" alt=""/>
+      <caption webpage="obrigado" alt=""/>
+      <caption webpage="obrigado" alt=""/>
+      <caption webpage="obrigado" alt=""/>
+      <caption webpage="comercial" alt=""/>
+      <caption webpage="comercial" alt=""/>
+      <caption webpage="comercial" alt=""/>
+      <caption webpage="comercial" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="hoteleiro" alt=""/>
+      <caption webpage="hoteleiro" alt=""/>
+      <caption webpage="hoteleiro" alt=""/>
+      <caption webpage="hoteleiro" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="orcamento" alt=""/>
+      <caption webpage="orcamento" alt=""/>
+      <caption webpage="orcamento" alt=""/>
+      <caption webpage="orcamento" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="industrial" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="corporativo" alt=""/>
+      <caption webpage="fale-conosco" alt=""/>
+      <caption webpage="fale-conosco" alt=""/>
+      <caption webpage="fale-conosco" alt=""/>
+      <caption webpage="fale-conosco" alt=""/>
+      <caption webpage="hospitalar" alt=""/>
+      <caption webpage="hospitalar" alt=""/>
+      <caption webpage="hospitalar" alt=""/>
+      <caption webpage="hospitalar" alt=""/>
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="entretenimento" alt=""/>
+      <caption webpage="entretenimento" alt=""/>
+      <caption webpage="entretenimento" alt=""/>
+      <caption webpage="entretenimento" alt=""/>
+      <caption webpage="o-que-fazemos" alt=""/>
+      <caption webpage="o-que-fazemos" alt=""/>
+      <caption webpage="o-que-fazemos" alt=""/>
+      <caption webpage="o-que-fazemos" alt=""/>
+      <caption webpage="segmentos" alt=""/>
+      <caption webpage="segmentos" alt=""/>
+      <caption webpage="segmentos" alt=""/>
+      <caption webpage="segmentos" alt=""/>
+      <caption webpage="sem-título-18" alt=""/>
+      <caption webpage="sem-título-18" alt=""/>
+      <caption webpage="sem-título-18" alt=""/>
+      <caption webpage="sem-título-18" alt=""/>
+    </file>
+    <file name="imagem colada 2000x455.png" crc="3762306539" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+      <caption webpage="imprensa" alt=""/>
+    </file>
+    <file name="imagem colada 2000x455166x38.png" crc="348579181" seo="true" ref="imprensa">
+      <caption webpage="imprensa" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="345230650" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="o-que-fazemos.html" crc="4136936301" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="segmentos.html" crc="387218709" seo="true" mt="1495133060156" redirect="true"/>
+  <file name="portfolio.html" crc="246811013" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="fale-conosco.html" crc="130079697" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="quem-somos.html" crc="3802496698" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="obrigado.html" crc="3846944958" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="corporativo.html" crc="3984272046" seo="true" mt="1495133158844" redirect="true"/>
+  <file name="comercial.html" crc="259651539" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="educacional.html" crc="144394370" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="edificacoes.html" crc="4124261612" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="industrial.html" crc="345101567" seo="true" mt="1495132928988" redirect="true"/>
+  <file name="entretenimento.html" crc="3844789459" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="hospitalar.html" crc="116248516" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="orcamento.html" crc="4114519613" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="hoteleiro.html" crc="448825184" seo="true" mt="1495130669252" redirect="true"/>
+  <file name="imprensa.html" crc="305942997" seo="true" mt="1495130669264" redirect="true"/>
+  <site>
+    <asset filename="lg.svg" muse_href="upload:U81999"/>
+    <asset filename="lg.ttf" muse_href="upload:U82001"/>
+    <asset filename="lg.eot" muse_href="upload:U82003"/>
+    <asset filename="lg.woff" muse_href="upload:U82005"/>
+    <asset filename="adding-the-icons---add-first.rtf" muse_href="upload:U82047"/>
+    <asset filename="1.jpg" muse_href="upload:U83823"/>
+    <asset filename="3-1.jpg" muse_href="upload:U83827"/>
+    <asset filename="3.jpg" muse_href="upload:U83829"/>
+    <asset filename="4.jpg" muse_href="upload:U83831"/>
+    <asset filename="5.jpg" muse_href="upload:U83833"/>
+    <asset filename="6.jpg" muse_href="upload:U83835"/>
+    <asset filename="8.jpg" muse_href="upload:U83837"/>
+    <asset filename="9.jpg" muse_href="upload:U83839"/>
+    <asset filename="10.jpg" muse_href="upload:U83841"/>
+    <asset filename="11-2.jpg" muse_href="upload:U83843"/>
+    <asset filename="11-3.jpg" muse_href="upload:U83845"/>
+    <asset filename="11.jpg" muse_href="upload:U83847"/>
+    <asset filename="12-2.jpg" muse_href="upload:U83849"/>
+    <asset filename="12.jpg" muse_href="upload:U83851"/>
+    <asset filename="13.jpg" muse_href="upload:U83853"/>
+    <asset filename="16.jpg" muse_href="upload:U83855"/>
+    <asset filename="18.jpg" muse_href="upload:U83857"/>
+    <asset filename="19-2.jpg" muse_href="upload:U83859"/>
+    <asset filename="19.jpg" muse_href="upload:U83861"/>
+    <asset filename="20.jpg" muse_href="upload:U83863"/>
+    <asset filename="21.jpg" muse_href="upload:U83865"/>
+    <asset filename="kiss1.jpg" muse_href="upload:U83867"/>
+    <asset filename="kiss2.jpg" muse_href="upload:U83869"/>
+    <asset filename="2.jpg" muse_href="upload:U83873"/>
+    <asset filename="14.jpg" muse_href="upload:U83875"/>
+    <asset filename="3-12.jpg" muse_href="upload:U83877"/>
+    <asset filename="32.jpg" muse_href="upload:U83879"/>
+    <asset filename="42.jpg" muse_href="upload:U83881"/>
+    <asset filename="52.jpg" muse_href="upload:U83883"/>
+    <asset filename="62.jpg" muse_href="upload:U83885"/>
+    <asset filename="82.jpg" muse_href="upload:U83887"/>
+    <asset filename="92.jpg" muse_href="upload:U83889"/>
+    <asset filename="102.jpg" muse_href="upload:U83891"/>
+    <asset filename="11-22.jpg" muse_href="upload:U83893"/>
+    <asset filename="11-32.jpg" muse_href="upload:U83895"/>
+    <asset filename="112.jpg" muse_href="upload:U83897"/>
+    <asset filename="12-22.jpg" muse_href="upload:U83899"/>
+    <asset filename="122.jpg" muse_href="upload:U83901"/>
+    <asset filename="132.jpg" muse_href="upload:U83903"/>
+    <asset filename="162.jpg" muse_href="upload:U83905"/>
+    <asset filename="182.jpg" muse_href="upload:U83907"/>
+    <asset filename="19-22.jpg" muse_href="upload:U83909"/>
+    <asset filename="192.jpg" muse_href="upload:U83911"/>
+    <asset filename="202.jpg" muse_href="upload:U83913"/>
+    <asset filename="212.jpg" muse_href="upload:U83915"/>
+    <asset filename="kiss12.jpg" muse_href="upload:U83917"/>
+    <asset filename="kiss22.jpg" muse_href="upload:U83919"/>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <characterStyle className="Menu-Buttons" uid="U16782"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="HOME" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U1553" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U134" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U130" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U126" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <masterPage name="A-mestre" master="U62" uid="U72">
+        <breakpoint uid="U43440" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U43235" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U98" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U102" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1280" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="O QUE FAZEMOS" filename="o-que-fazemos.html" muse_href="page:U2523" master="U72">
+        <breakpoint uid="U2722" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U2711" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U2700" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U2667" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U2507" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="SEGMENTOS" filename="segmentos.html" muse_href="page:U2559" master="U72">
+        <breakpoint uid="U50550" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U50464" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U50378" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U49742" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U2543" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="PORTFÓLIO" filename="portfolio.html" muse_href="page:U2577" master="U72">
+        <breakpoint uid="U83920" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U51867" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U51851" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U51843" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U2561" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="FALE CONOSCO" filename="fale-conosco.html" muse_href="page:U2595" master="U72">
+        <breakpoint uid="U48196" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U48166" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U48136" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U48106" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U2579" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="QUEM SOMOS" filename="quem-somos.html" muse_href="page:U84257" master="U72">
+        <breakpoint uid="U85029" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U84936" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U84942" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U84948" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U84221" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="OBRIGADO" filename="obrigado.html" muse_href="page:U85129" master="U72">
+        <breakpoint uid="U89439" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U89428" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U89417" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U89406" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U85113" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="COMERCIAL" filename="comercial.html" muse_href="page:U85466" master="U72">
+        <breakpoint uid="U85999" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U85993" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U85987" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U85981" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U85434" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="EDUCACIONAL" filename="educacional.html" muse_href="page:U85500" master="U72">
+        <breakpoint uid="U86661" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U86653" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U86645" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U86637" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U85468" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="EDIFICAÇÕES" filename="edificacoes.html" muse_href="page:U85534" master="U72">
+        <breakpoint uid="U86479" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U86471" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U86463" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U86455" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U85502" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="INDUSTRIAL" filename="industrial.html" muse_href="page:U85568" master="U72">
+        <breakpoint uid="U103291" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U102824" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U102709" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U102496" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U85536" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="ENTRETENIMENTO" filename="entretenimento.html" muse_href="page:U85602" master="U72">
+        <breakpoint uid="U87080" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U87072" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U87064" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U87056" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U85570" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="HOSPITALAR" filename="hospitalar.html" muse_href="page:U85636" master="U72">
+        <breakpoint uid="U87252" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U87240" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U87228" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U87184" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U85604" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="ORÇAMENTO" filename="orcamento.html" muse_href="page:U90646" master="U72">
+        <breakpoint uid="U90330" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U90384" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U90438" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U90492" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U90587" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="HOTELEIRO" filename="hoteleiro.html" muse_href="page:U91084" master="U72">
+        <breakpoint uid="U90992" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U91010" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U91028" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U91046" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U91065" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="IMPRENSA" filename="imprensa.html" muse_href="page:U92620" master="U72">
+        <breakpoint uid="U95268" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U95212" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U95156" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U95099" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U92604" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+      <page name="CORPORATIVO" filename="corporativo.html" muse_href="page:U109259" master="U72">
+        <breakpoint uid="U108406" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U108940" maxwidth="480" minwidth="321" squishy="true"/>
+        <breakpoint uid="U108796" maxwidth="768" minwidth="481" squishy="true"/>
+        <breakpoint uid="U109084" maxwidth="1028" minwidth="769" squishy="true"/>
+        <breakpoint uid="U108551" maxwidth="1280" minwidth="1029" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>

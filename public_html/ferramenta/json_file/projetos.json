@@ -1,0 +1,4 @@
+{
+	"arquitetura": {"escritorio": "Escritório", "industrial": "Industrial", "hotel": "Hotel", "loja_comercial": "Loja Comercial", "casa_comercial": "Casa Comercial", "galpao": "Galpão", "escola": "Escola", "predio": "Prédio", "hospital": "Hospital", "clinica": "Clínica", "Restaurante": "Restaurante", "Entretenimento": "Entretenimento", "outros": "outros" },
+	"complementares": {"rede_eletrica": "Rede Elétrica", "luminotecnico": "Luminotécnico", "cabeamento_estruturado": "Cabeamento Estruturado", "cftv": "CFTV", "sonorizacao": "Sonorização", "acustica": "Acústica", "ar_condicionado": "Ar Condicionado", "infraestrutura": "Infraestrutura", "hidraulica": "Hidráulica", "combate a incendio": "Combate a incêndio", "estrutural": "Estrutural", "topografia": "Topografia", "sondagem": "Sondagem", "terraplanagem": "Terraplanagem", "fundacao": "Fundação", "estrutural_metalica": "Estrutura metálica", "outros": "outros" }
+}

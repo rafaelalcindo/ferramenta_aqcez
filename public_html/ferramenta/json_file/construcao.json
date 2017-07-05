@@ -1,0 +1,10 @@
+{
+	"escritorios": { "casa_comercial": "Casa Comercial", "sala_comercial": "Sala Comercial", "laje_corporativa": "Laje Corporativa", "galpao": "Galpão", "predio": "Prédio", "outros" : "outros" },
+	"locais_comerciais": {"sala_comercial": "Sala Comercial", "loja": "Loja", "casa_comercial": "Casa Comercial", "galpao": "Galpão", "comerical": "Comercial", "outros" : "outros" },
+	"hoteis": {"predio": "Prédio", "complexo": "Complexo", "outros" : "outros" },
+	"clinicas": {"sala_comercial": "Sala Comercial", "casa_comercial": "Casa Comercial", "pavimento": "Pavimento", "predio": "Prédio", "outros" : "outros" },
+	"instalacoes_corporativas": {"casa_comercial": "Casa Comercial", "sala_comercial": "Sala Comercial", "pavimento": "Pavimento", "laje_corporativa": "Laje Corporativa", "galpao": "Galpão", "predio": "Prédio", "outros" : "outros"},
+	"restaurantes": {"casa_comercial": "Casa Comercial", "loja": "Loja", "galpao_comercial": "Galpão Comercial", "outros": "outros" },
+	"escola": {"casa": "Casa", "complexo": "Complexo", "campus": "Campus", "outros": "outros" },
+	"industria": {"galpao_industrial": "Galpão Industrial", "galpao_logistico": "Galpão Logístico", "galpao_comercial": "Galpão Comercial", "outros": "outros"}
+}
