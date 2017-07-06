@@ -14,6 +14,7 @@
                 var estrutura     = $('#sele_estrutura2').val();
                 var especi_estru  = $('#text_area_obs2').val();
                 var sele_area     = $('#sele_area2').val();
+                var servicos      = $('#sele_servico').val();
                 //var servico_preci = $("input[name='Pedido[]']").is(':checked');
                 //var urgencia      = $('#sele_urgencia2').val();
                 //var area_nesce    = $('#area_nece2').val();
@@ -26,7 +27,9 @@
                 var estado        = $('#estado2').val();
                 var cidade        = $('#cidade2').val();
 
-                
+                alert(servicos);
+
+
 
                 if(escritorio.trim() != ''){
                     if(sele_area.trim() != ''){ 
@@ -51,7 +54,7 @@
                                                             servicos_array.push($(this).val());
                                                         }); */
 
-                                                        data.append('servico', servicos_array);
+                                                        data.append('servico', servicos);
 
 
                                                        // data.append('urgencia', urgencia);

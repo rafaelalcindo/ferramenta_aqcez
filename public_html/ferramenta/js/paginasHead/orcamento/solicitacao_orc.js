@@ -26,7 +26,7 @@ $(document).ready(function(){
 
             */
 
-            $('#btn_finish').click(function(){
+            $('#btn_finish').click(function(event){
 
                 var servicos_array = new Array();
 
@@ -34,6 +34,7 @@ $(document).ready(function(){
                 var estrutura     = $('#sele_estrutura').val();
                 var especi_estru  = $('#text_area_obs').val();
                 var sele_area     = $('#sele_area').val();
+                var servicos      = $('#sele_servico').val();
                // var servico_preci = $("input[name='Pedido[]']").is(':checked');
                 //var urgencia      = $('#sele_urgencia').val();
                 //var area_nesce    = $('#area_nece').val();
@@ -46,6 +47,9 @@ $(document).ready(function(){
                 var estado        = $('#estado').val();
                 var cidade        = $('#cidade').val();
 
+                alert(servicos);
+
+                
                 
 
                 if(escritorio.trim() != ''){
@@ -71,8 +75,7 @@ $(document).ready(function(){
                                                             servicos_array.push($(this).val());
                                                         }); */
 
-                                                        data.append('servico', servicos_array);
-
+                                                        data.append('servico', servicos);
 
                                                         //data.append('urgencia', urgencia);
                                                       //  data.append('quando', area_nesce);
