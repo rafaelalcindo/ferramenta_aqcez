@@ -2,29 +2,7 @@ $(document).ready(function(){
 
         $('#u256605-4').hide();
 
-            /*
-
-            $('#btn_next01').click(function(){                
-                $("#u184767").hide();
-                $("#u184888").show();
-            });
-
-            $("#btn_preview02").click(function(){
-                $("#u184888").hide();
-                $("#u184767").show();                
-            });
-
-            $("#btn_next02").click(function(){
-               $("#u184888").hide();
-               $('#u185026').show();
-            });
-
-            $("#btn_preview03").click(function(){
-               $('#u185026').hide();
-               $("#u184888").show(); 
-            });
-
-            */
+            
 
             $('#btn_finish').click(function(event){
 
@@ -47,7 +25,7 @@ $(document).ready(function(){
                 var estado        = $('#estado').val();
                 var cidade        = $('#cidade').val();
 
-                alert(servicos);
+                //alert(servicos);
 
                 
                 
@@ -58,7 +36,7 @@ $(document).ready(function(){
                             
                                 if(nome_orc.trim() != ''){
                                     
-                                        if(tel.trim() != '' || cel.trim() != ''){
+                                        if( cel.trim() != ''){
                                             if(email.trim() != ''){
                                                 if(estado.trim() != ''){
                                                     if(cidade.trim != ''){
@@ -107,11 +85,90 @@ $(document).ready(function(){
 
             });
 
+
+
+            $("#tipo").change(function(){
+
+                //alert('entrou tipo');
+                var tipo = $(this).val();
+               // alert(tipo);
+                var opcoes;
+
+                $('#sele_segmento').children().remove();
+
+                if(tipo == "construcao"){
+                    opcoes = preencheSegmento(tipo);
+                    $('#sele_segmento').append(opcoes);
+                }else if(tipo == "reforma"){                    
+                    opcoes = preencheSegmento(tipo);
+                    $('#sele_segmento').append(opcoes);
+                }else if(tipo == "projetos"){
+                    opcoes = preencheSegmento(tipo);
+                    $('#sele_segmento').append(opcoes);
+                }else if(tipo == "outros"){
+                    opcoes = preencheSegmento(tipo);
+                    $('#sele_segmento').append(opcoes);
+                }
+
+            });
+
+
             $("#sele_segmento").change(function(){
+                var tipo     = $('#tipo').val();
                 var segmento = $(this).val();
 
                 $("#sele_estrutura").children().remove();
 
+                preencheEstrutura(tipo, segmento);
+        
+
+                });// Fim sele Segmento
+
+            function preencheSegmento(segmento){
+
+                if(segmento == "construcao"){
+                    var option = "<option value=''>Selecione a Categoria</option>";
+                    option += "<option value='escritorios'>Escritórios</option>";
+                    option += "<option value='locais_comerciais'>Locais Comerciais</option>";
+                    option += "<option value='hoteis'>Hotéis</option>";
+                    option += "<option value='clinicas'>Clínicas</option>";
+                    option += "<option value='restaurantes'>Restaurantes</option>";
+                    option += "<option value='escola'>Escola</option>";
+                    option += "<option value='industria'>Indústria</option>";
+                    option += "<option value='outros'>Outros</option>";
+
+                    return option;
+                }else if(segmento == "reforma"){
+                    var option = "<option value=''>Selecione a Categoria</option>";
+                    option += "<option value='escritorios'>Escritórios</option>";
+                    option += "<option value='locais_comerciais'>Locais Comerciais</option>";
+                    option += "<option value='hoteis'>Hotéis</option>";
+                    option += "<option value='clinicas'>Clínicas</option>";
+                    option += "<option value='restaurantes'>Restaurantes</option>";
+                    option += "<option value='escola'>Escola</option>";
+                    option += "<option value='industria'>Indústria</option>";
+                    option += "<option value='outros'>Outros</option>";
+
+                    return option;
+                }else if(segmento == "projetos"){
+                    var option = "<option value=''>Selecione a Categoria</option>";
+                    option += "<option value='arquitetura'>Arquitetura/Design de Interior</option>";
+                    option += "<option value='complementares'>Complementares</option>";
+
+                    return option;
+                }else if(segmento == "outros"){
+                    var option = "<option value=''>Selecione a Categoria</option>";
+                    option += "<option value='desmobilizacao'>Desmobilização de Empresas</option>";
+                    option += "<option value='solucao_completa'>Solução Completa - TurnKey</option>";
+
+                    return option;
+                }
+
+            }
+
+
+            function preencheEstrutura(tipo, segmento){
+                if(tipo == "construcao"){
                     $.getJSON("json_file/construcao.json",function(data){
                         $.each(data, function(key, val){
 
@@ -133,8 +190,75 @@ $(document).ready(function(){
 
                         });
                     });
+                }else if(tipo == "reforma"){
+                    $.getJSON("json_file/reformas.json",function(data){
+                        $.each(data, function(key, val){
 
-                });// Fim sele Segmento
+                            if(key == segmento){                            
+                                $.each(val, function(key02,val02){
+                                    $("#sele_estrutura").show();
+                                    $('#u251945').show();
+                                    $('#u251947-4').children().remove();
+                                    $('#u251947-4').append('<p>QUAL É A ESTRUTURA?</p>');
+                                    var option = "<option value="+val02+">"+val02+"</option>";
+                                    $("#sele_estrutura").append(option);
+                                });
+                            }else if(segmento == "outros"){
+                                $("#sele_estrutura").hide();
+                                $('#u251945').hide();
+                                $('#u251947-4').children().remove();
+                                $('#u251947-4').append('<p>Especifíque no Campo Abaixo</p>');
+                            }
+
+                        });
+                    });
+                }else if(tipo == "projetos"){
+                    $.getJSON("json_file/projetos.json",function(data){
+                        $.each(data, function(key, val){
+
+                            if(key == segmento){                            
+                                $.each(val, function(key02,val02){
+                                    $("#sele_estrutura").show();
+                                    $('#u251945').show();
+                                    $('#u251947-4').children().remove();
+                                    $('#u251947-4').append('<p>QUAL É A ESTRUTURA?</p>');
+                                    var option = "<option value="+val02+">"+val02+"</option>";
+                                    $("#sele_estrutura").append(option);
+                                });
+                            }else if(segmento == "outros"){
+                                $("#sele_estrutura").hide();
+                                $('#u251945').hide();
+                                $('#u251947-4').children().remove();
+                                $('#u251947-4').append('<p>Especifíque no Campo Abaixo</p>');
+                            }
+
+                        });
+                    });
+
+                }else if(tipo == "outros"){
+                    $.getJSON("json_file/projetos.json",function(data){
+                        $.each(data, function(key, val){
+
+                            if(key == segmento){                            
+                                $.each(val, function(key02,val02){
+                                    $("#sele_estrutura").show();
+                                    $('#u251945').show();
+                                    $('#u251947-4').children().remove();
+                                    $('#u251947-4').append('<p>QUAL É A ESTRUTURA?</p>');
+                                    var option = "<option value="+val02+">"+val02+"</option>";
+                                    $("#sele_estrutura").append(option);
+                                });
+                            }else if(segmento == "outros"){
+                                $("#sele_estrutura").hide();
+                                $('#u251945').hide();
+                                $('#u251947-4').children().remove();
+                                $('#u251947-4').append('<p>Especifíque no Campo Abaixo</p>');
+                            }
+
+                        });
+                    });
+                }
+            }
 
 
 

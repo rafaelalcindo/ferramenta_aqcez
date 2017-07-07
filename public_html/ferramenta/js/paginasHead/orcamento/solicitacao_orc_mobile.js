@@ -27,7 +27,7 @@
                 var estado        = $('#estado2').val();
                 var cidade        = $('#cidade2').val();
 
-                alert(servicos);
+               // alert(servicos);
 
 
 
